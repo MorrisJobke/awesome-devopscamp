@@ -40,7 +40,7 @@ Beispiel: https://dev.dukecon.org/jenkins/job/dukecon-doc/ws/target/generated-do
 ## Communication 
 
 * ScudCloud https://github.com/raelgc/scudcloud Slack for Linux
-* Franz http://meetfranz.com/ Multi messanger client
+* Franz http://meetfranz.com/ Multi messenger (combines web views into one desktop app)
 
 ### WebRTC / Screensharing
 * Room https://room.co/
