@@ -62,3 +62,4 @@ Beispiel: https://dev.dukecon.org/jenkins/job/dukecon-doc/ws/target/generated-do
 
 * Stikked https://github.com/claudehohl/Stikked "beautiful" pastebin
 * Hastebin http://hastebin.com/about.md
+* 0paste (client-side crypto) https://bitbucket.org/nanaya1/zeropaste
