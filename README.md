@@ -20,15 +20,15 @@ A list of links that were collected during the tools session at the DevOpsCamp 2
 * dtrx http://brettcsmith.org/2007/dtrx/ Intelligent unarchiver
 * x alias in oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
 * fzf https://github.com/junegunn/fzf A command-line fuzzy finder written in Go
-* Python debug smtp server - Python standard lib - python -m smtpd -n -c DebuggingServer localhost:1025
-* Python webserver - serve current directory - python3 -m http.server
+* Python debug smtp server - Python standard lib `python -m smtpd -n -c DebuggingServer localhost:1025`
+* Python webserver - serve current directory - `python3 -m http.server`
 * MailCatcher https://mailcatcher.me/ debug emails
 * CommandLineFu http://www.commandlinefu.com/commands/browse browse/search command line examples
 Explain Shell http://explainshell.com/ explains pasted shell commands http://explainshell.com/explain?cmd=ls+-la+%2Fusr%2Flocal%2Fopt%2Fphp56-* intl%2F+%7C+grep+abc
 * The Silver Searches http://geoff.greer.fm/ag/ code search tool
 * HomeShick https://github.com/andsens/homeshick dotfile management
 * DirEnv https://github.com/direnv/direnv load ENV variables on dir change
-* DotEnv https://github.com/bkeepers/dotenv load ENV variables from .env files
+* DotEnv https://github.com/bkeepers/dotenv load ENV variables from `.env` files
 * Number26 https://number26.eu/ Credit cards for free (easy ident)
 * Dotfiles https://github.com/frdmn/dotfiles Backup settings/installed apps
 * Draw.io https://www.draw.io/ flow charts
