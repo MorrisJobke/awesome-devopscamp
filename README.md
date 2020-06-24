@@ -36,6 +36,7 @@ Explain Shell http://explainshell.com/ explains pasted shell commands http://exp
 Beispiel: https://dev.dukecon.org/jenkins/job/dukecon-doc/ws/target/generated-docs/de/index.html#section-system-scope-and-context + https://dev.dukecon.org/jenkins/job/dukecon-doc/ws/src/main/asciidoc/systemcontext.puml/*view*/
 * Caddy https://caddyserver.com/ http2 server with automatic ssl
 * NetData https://github.com/firehol/netdata Graph overview of metrics
+* Humanitec https://humanitec.com/ Continuous Delivery API for Kubernetes-ready applications
 
 ## Communication 
 
